@@ -2,6 +2,10 @@
 
 Este é um projeto simples para criar, visualizar, atualizar e excluir usuários através de uma interface web.
 
+## Imagem do Projeto
+
+![](https://i.ibb.co/hRGHzTc/Sem-t-tulo-1.png)
+
 ## Tecnologias Utilizadas
 
 - HTML5: Linguagem de marcação para estruturar o conteúdo da página.
